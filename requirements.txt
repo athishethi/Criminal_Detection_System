@@ -1,7 +1,4 @@
-face-recognition==1.3.0
-dlib==19.24.2
-cmake
+streamlit
 opencv-python-headless
 numpy
 Pillow
-streamlit
